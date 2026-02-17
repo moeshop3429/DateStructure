@@ -1,4 +1,10 @@
-
+/*Cree una clase en Java.
+A) Arreglo aleatorio
+encuentre del el numero maximo..
+nombre: Isaias Mejía Morente
+Carnet: 202503928
+curso: estructura de datos
+tutor: ing. Brandon Chitay*/
 
 public class maxNumber {
     public static void main (String[] args) {
