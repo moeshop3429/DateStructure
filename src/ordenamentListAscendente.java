@@ -1,3 +1,10 @@
+/*Cree una clase en Java.
+A) Arreglo aleatorio
+ordenamiento de forma ascendente..
+nombre: Isaias Mejía Morente
+Carnet: 202503928
+curso: estructura de datos
+tutor: ing. Brandon Chitay*/
 public class ordenamentListAscendente {
 
     public static void main(String[] arguments) {
