@@ -1,5 +1,5 @@
 /*Cree una clase en Java.
-A) Arreglo aleatorio
+B) Arreglo ascendente
 ordenamiento de forma ascendente..
 nombre: Isaias Mejía Morente
 Carnet: 202503928
