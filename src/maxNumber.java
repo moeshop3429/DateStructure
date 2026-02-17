@@ -1,6 +1,6 @@
 /*Cree una clase en Java.
 A) numero maximo
-encuentre del el numero maximo..
+encuentre del el numero maximo si..
 nombre: Isaias Mejía Morente
 Carnet: 202503928
 curso: estructura de datos
