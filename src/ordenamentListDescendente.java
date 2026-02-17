@@ -1,3 +1,10 @@
+/*Cree una clase en Java.
+C) Arreglo aleatorio
+ordenamiento descendiente..
+nombre: Isaias Mejía Morente
+Carnet: 202503928
+curso: estructura de datos
+tutor: ing. Brandon Chitay*/
 public class ordenamentListDescendente {
 
     public static void main(String[] arguments) {
