@@ -1,5 +1,5 @@
 /*Cree una clase en Java.
-C) Arreglo aleatorio
+C) Arreglo descendente
 ordenamiento descendiente..
 nombre: Isaias Mejía Morente
 Carnet: 202503928
