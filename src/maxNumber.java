@@ -1,5 +1,5 @@
 /*Cree una clase en Java.
-A) Arreglo aleatorio
+A) numero maximo
 encuentre del el numero maximo..
 nombre: Isaias Mejía Morente
 Carnet: 202503928
